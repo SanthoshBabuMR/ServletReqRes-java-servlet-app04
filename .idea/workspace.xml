@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74ad9697-e5ad-45dd-bd7d-ed65532bf2d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/babusa/learn/GenerateHTMLTemplatePageServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/babusa/learn/GenerateHTMLTemplatePageServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/babusa/learn/GenerateStandaloneHTMLPageServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/babusa/learn/GenerateStandaloneHTMLPageServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/headertemplate.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/headertemplate.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/standalonepage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/standalonepage.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -10,6 +10,7 @@ import java.io.PrintWriter;
 public class GenerateHTMLTemplatePageServlet extends HttpServlet {
     public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
         PrintWriter out = res.getWriter();
+        req.setAttribute("title", "Generated HTML Page");
         out.append("<body><h1>This is Generated page!!</h1></body></html>");
         req.getRequestDispatcher("/headertemplate.jsp").include(req, res);
     }

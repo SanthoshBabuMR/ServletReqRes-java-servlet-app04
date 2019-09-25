@@ -1,5 +1,5 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Generated Page (title from header template)</title>
+	<title><%= (String)request.getAttribute("title") %> (title from header template)</title>
 </head>
