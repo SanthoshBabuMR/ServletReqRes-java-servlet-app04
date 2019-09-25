@@ -9,6 +9,6 @@ import java.io.PrintWriter;
 
 public class GenerateStandaloneHTMLPageServlet extends HttpServlet {
     public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
-        git init        req.getRequestDispatcher("/standalonepage.jsp").forward(req, res);
+        req.getRequestDispatcher("/standalonepage.jsp").forward(req, res);
     }
 }
